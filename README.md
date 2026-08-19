@@ -13,9 +13,9 @@
 
 ### About Me
 
-*  I’m currently learning **[Machine Learning]**
-*  I’m looking to collaborate on **[Open source projects, hackathons, etc.]**
-*  Ask me about **[Python, React, Java]**
+*  I’m currently learning **Machine Learning**
+*  I’m looking to collaborate on **Open source projects, hackathons, etc.**
+*  Ask me about **Python, React, Java**
 
 
 ---
