@@ -29,7 +29,3 @@
 
 ###  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbolahancodes&show_icons=true&theme=radium" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbolahancodes&layout=compact&theme=radium" alt="Top Languages" />
-</div>
