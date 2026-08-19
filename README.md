@@ -27,5 +27,4 @@
 * **Tools/Databases:** Git, Docker, PostgreSQL, Streamlit, Huggingface
 
 
-###  GitHub Stats
 
