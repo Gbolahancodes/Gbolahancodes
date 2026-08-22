@@ -3,7 +3,7 @@
   <h3>ML/AI Engineer | Web Developer</h3>
   <p>I like to code stuff</p>
 
-  <!-- Social Links -->
+
   <p>
     <a href="https://linkedin.com/in/gbolahan-bantefa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:gbolahanbantefa08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
