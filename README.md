@@ -55,13 +55,12 @@ I post my coding journey
 
 </div>
 
----
-
----
-
-
 <div align="center">
 
-<img src="./assets/footer.svg" alt="Footer" width="100%"/>
 
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer"/>
+
+
+
+**Thanks for stopping by — let's build something**
