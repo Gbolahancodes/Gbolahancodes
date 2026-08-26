@@ -1,0 +1,17 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff">
+        <animate attributeName="stop-color" values="#00c6ff;#0f2027;#00c6ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0f2027">
+        <animate attributeName="stop-color" values="#0f2027;#00c6ff;#0f2027" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <style>
+      .msg { font: 600 20px 'Segoe UI', Arial, sans-serif; fill: #ffffff; }
+    </style>
+  </defs>
+  <rect width="900" height="100" fill="url(#fbg)" rx="12"/>
+  <text x="450" y="58" text-anchor="middle" class="msg">Thanks for stopping by — let's build something</text>
+</svg>
