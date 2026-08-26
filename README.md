@@ -58,10 +58,6 @@ I post my coding journey — the wins, the bugs, and the "why isn't this working
 
 ---
 
-<!--
-  Optional: contribution snake animation.
-  Uncomment once .github/workflows/snake.yml has run at least once (Actions tab -> Generate Snake Animation -> Run workflow).
-  It builds an "output" branch containing the generated SVGs.
 
 <div align="center">
 
@@ -72,7 +68,7 @@ I post my coding journey — the wins, the bugs, and the "why isn't this working
 </div>
 
 ---
--->
+
 
 <div align="center">
 
