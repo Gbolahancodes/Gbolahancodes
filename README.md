@@ -18,8 +18,6 @@
 name: Gbolahan
 role: Software Engineering Student @ Babcock University
 focus: Front-End Dev · Web Dev · AI/ML Engineering · Data Analytics
-currently: Searching for a January-start SIWES / IT internship
-mission: Learning in public — coding journey documented on TikTok
 ```
 
 - Studying Software Engineering, sharpening the fundamentals every day
@@ -51,22 +49,13 @@ mission: Learning in public — coding journey documented on TikTok
 
 <div align="center">
 
-I post my coding journey — the wins, the bugs, and the "why isn't this working" moments — on TikTok. If you're learning to code too, come along.
+I post my coding journey
 
 [![TikTok](https://img.shields.io/badge/-Watch%20on%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gbolahancodes)
 
 </div>
 
 ---
-
-
-<div align="center">
-
-### Contribution Activity
-
-<img src="https://raw.githubusercontent.com/Gbolahancodes/Gbolahancodes/output/assets/snake-dark.svg" width="100%"/>
-
-</div>
 
 ---
 
