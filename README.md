@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%2C%20I'm%20Gbolahan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Building%20in%20Public&descAlignY=55&descSize=18" width="100%"/>
+
 
 <br/>
 
