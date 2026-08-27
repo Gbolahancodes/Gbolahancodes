@@ -49,6 +49,8 @@ focus: Front-End Dev · Web Dev · AI/ML Engineering · Data Analytics
 
 <div align="center">
 
+
+
 I post my coding journey
 
 [![TikTok](https://img.shields.io/badge/-Watch%20on%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gbolahancodes)
