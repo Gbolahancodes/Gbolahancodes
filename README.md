@@ -33,7 +33,7 @@
 I'm Gbolahan Bantefa, a Software Engineering student at Babcock University. I'm passionate about machine learning, backend infrastructure, and full-stack development, utilizing technologies like Python, Java, TypeScript, AWS, and Supabase to build robust systems. I enjoy tackling complex data and automation challenges, from architecting explainable AI pipelines for credit-risk evaluation to building full-stack inventory platforms and fraud detection engines. 
 
 <details>
-<summary><h2 style="display:inline"> 💻 Tech Stack</h2> (click to expand)</summary>
+<summary><h2 style="display:inline"> Tech Stack</h2> (click to expand)</summary>
 <div align="center">
   
 ### Languages
@@ -88,7 +88,7 @@ Led full-stack development of an inventory management system featuring authentic
 </details>
 
 <details>
-<summary><h2 style="display:inline"> 💼 Experience</h2> (click to expand)</summary>
+<summary><h2 style="display:inline"> Experience</h2> (click to expand)</summary>
 
 ### Founder & ML Engineer
 **Verakri (Self-Directed Venture)** | *May 2026 - Present*
@@ -107,7 +107,7 @@ Led full-stack development of an inventory management system featuring authentic
 </details>
 
 <details>
-<summary><h2 style="display:inline"> 🏆 Certifications & Extracurriculars</h2> (click to expand)</summary>
+<summary><h2 style="display:inline"> Certifications & Extracurriculars</h2> (click to expand)</summary>
 <div align="center">
 
 | Organization | Certification / Role | Details |
@@ -119,10 +119,10 @@ Led full-stack development of an inventory management system featuring authentic
 </details>
 
 <details>
-<summary><h2 style="display:inline"> 📊 GitHub Analytics</h2> (click to expand)</summary>
+<summary><h2 style="display:inline"> GitHub Analytics</h2> (click to expand)</summary>
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gbolahancodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&ring_color=2563EB" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbolahancodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" />
+  
+ 
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Gbolahancodes&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E" />
 </div>
