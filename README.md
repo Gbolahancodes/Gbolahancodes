@@ -1,4 +1,35 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Gbolahancodes/Gbolahancodes/main/assets/header.svg" width="100%" />
+  <br/>
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=650&height=60&lines=Software+Engineer;Machine+Learning;Full+Stack+Developer;Babcock+University+%E2%80%9928" alt="Typing SVG" />
+  </a>
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Babcock%20University-Software%20Engineering-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Class%20of-2028-3B82F6?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Ogun-Nigeria-1E40AF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <br/><br/>
+  
+  <a href="https://www.linkedin.com/in/gbolahanB">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gbolahanbantefa08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gbolahancodes">
+    <img src="https://img.shields.io/badge/GitHub-Follow-60A5FA?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Gbolahancodes&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Gbolahancodes?style=for-the-badge&color=2563EB&label=FOLLOWERS&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Gbolahancodes?style=for-the-badge&color=60A5FA&label=STARS&logo=github&logoColor=white" />
+</div>
+<br/>
+
+<div align="center">
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=650&height=60&lines=Software+Engineer;Machine+Learning;Full+Stack+Developer;Babcock+University+%E2%80%9928" alt="Typing SVG" />
   </a>
