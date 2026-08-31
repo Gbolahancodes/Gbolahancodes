@@ -36,7 +36,7 @@ I'm Gbolahan Bantefa, a Software Engineering student at Babcock University. I'm 
 <summary><h2 style="display:inline"> Tech Stack</h2> (click to expand)</summary>
 <div align="center">
   
-### Languages
+### Languages 
 <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,cpp,php&theme=dark" />
 
 ### Frontend & Backend
