@@ -30,7 +30,7 @@
 <br/>
 
 ## About Me
-I'm Gbolahan Bantefa, a Software Engineering student at Babcock University. I'm passionate about machine learning, backend infrastructure, and full-stack development, utilizing technologies like Python, Java, TypeScript, AWS, and Supabase to build robust systems. I enjoy tackling complex data and automation challenges, from architecting explainable AI pipelines for credit-risk evaluation to building full-stack inventory platforms and fraud detection engines. 
+I'm Gbolahan Bantefa, a Software Engineering student at Babcock University. I'm passionate about machine learning, backend infrastructure, and full-stack development, utilizing technologies like Python, Java, TypeScript, AWS, and Supabase to build robust systems. I enjoy tackling complex data and automation challenges, from architecting  explainable AI pipelines for credit-risk evaluation to building full-stack inventory platforms and fraud detection engines. 
 
 <details>
 <summary><h2 style="display:inline"> Tech Stack</h2> (click to expand)</summary>
