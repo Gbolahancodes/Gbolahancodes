@@ -95,7 +95,7 @@ Led full-stack development of an inventory management system featuring authentic
 *   Lifted ROC-AUC to 0.78 by training a LightGBM model on 300K credit records + engineered alternative-data features.
 *   Delivered auditable lending decisions via instant SHAP reason codes by building an explainable AI pipeline with an LLM assistant.
 *   Shipped a production-grade credit-risk product with sub-500ms prediction latency deployed via FastAPI + ONNX in Docker.
-`LightGBM` `FastAPI` `ONNX` `Docker` `Machine Learning`
+`LightGBM` `FastAPI` `Docker` `Machine Learning`
 
 <br/>
 
